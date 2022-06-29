@@ -1,2 +1,2 @@
 # uc-tcf-demo
-TCF demo repo
+https://ucanna.github.io/uc-tcf-demo/
